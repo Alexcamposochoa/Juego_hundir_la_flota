@@ -1,12 +1,7 @@
-from funciones import *
-from funciones import colocar_barcos
-from funciones import disparo_jugador
-from funciones import turno_maquina
-from funciones import bienvenida
-from funciones import crear_tablero
+import numpy as np
 
-tablero = crear_tablero()
-tablero_maquina = crear_tablero()
-tablero_adivinar = crear_tablero()
+tablero = tablero = np.full((10, 10), ' ')
+tablero_maquina = np.full((10, 10), ' ')
+tablero_adivinar = np.full((10, 10), ' ')
 vidas_jugador = 20
 vidas_maquina = 5
