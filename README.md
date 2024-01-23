@@ -36,6 +36,12 @@ El juego se desarrolla en un tablero de 10x10 donde los participantes, encarnand
 
 ¡Contribuciones son bienvenidas! Si encuentras errores, mejoras o nuevas características que podrían agregarse al juego, no dudes en abrir un problema o enviar una solicitud de extracción.
 
+## PD
+
+Esta versión es una versión DEMO que muestra al comienzo de la partida el tablero con los barcos de la máquina ya colocados, además aunque en la definición se establecen 20 vidas para cada jugador en la versión DEMO para mostrar en la presentación se redujeron a 4 las vidas de la máquina y así mostrar la interacción de finalizar partida.
+
+Tanto el print del tablero como el número de vidas de la máquina se pueden modificar. 
+
 ## Créditos
 
 Este juego fue desarrollado por el intrépido bucanero Alejandro Campos Ochoa. ¡Buena suerte en la batalla!
