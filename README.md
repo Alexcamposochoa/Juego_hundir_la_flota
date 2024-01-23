@@ -1,3 +1,5 @@
+<img src="rsc/battleship_thumbnail.avif" width="1900" />
+
 # Hundir la flota -- Battleship Game
 
 ¡Bienvenido a la emocionante batalla naval del Capitán Pytón contra la malvada banda de los TA's! Prepárate para una experiencia de juego estratégica y llena de acción. ¿Tienes lo necesario para destruir todos los barcos enemigos y ganar la batalla?
