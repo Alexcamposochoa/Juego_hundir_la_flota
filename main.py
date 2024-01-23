@@ -1,5 +1,5 @@
-from funciones import *
-from variables import *
+from rsc.funciones import *
+from rsc.variables import *
 
 bienvenida()
 colocar_barcos(tablero)
@@ -8,5 +8,6 @@ print("                                     ")
 colocar_barcos(tablero_maquina)
 print(tablero_maquina)
 print("                                     ")
-disparo_jugador(tablero, tablero_maquina, tablero_adivinar,
-                vidas_jugador, vidas_maquina)
+disparo_jugador(
+    tablero, tablero_maquina, tablero_adivinar, vidas_jugador, vidas_maquina
+)
