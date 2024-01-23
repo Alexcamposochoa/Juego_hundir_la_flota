@@ -1,4 +1,4 @@
-<img src="rsc\battleship.jpg" width="1000" />
+<img src="rsc\battleship.jpeg" width="1000" />
 
 # Hundir la flota -- Battleship Game
 
